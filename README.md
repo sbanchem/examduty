@@ -1,4 +1,4 @@
-# This is a Streamlit web application to auto-generate a fair and balanced exam duty schedule for invigilators, based on their availability and off-days.
+# This is a  web application to auto-generate a fair and balanced exam duty schedule for invigilators, based on their availability and off-days.
 
 🔧 Features
 📥 Upload teacher and exam data via Excel file.
